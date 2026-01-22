@@ -33,7 +33,7 @@ ASSIST HEIDI aims to address these challenges by offering customizable and modul
 
 ## Repository Structure
 
-- `firmware/trackpad_input` – Assistive trackpad and button input module
+- [firmware/trackpad_input](firmware/trackpa_input/) – Assistive trackpad and button input module
 - `firmware/Keyboard_Switch` – Assistive Keyboard for game controls  
 - `hardware/3d_prints` – 3D printable parts
 
