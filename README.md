@@ -35,7 +35,7 @@ ASSIST HEIDI aims to address these challenges by offering customizable and modul
 
 - [firmware/trackpad_input](firmware/trackpad_input/) – Assistive trackpad and button input module
 - [firmware/Keyboard_Switch](firmware/Keyboard_Switch/) – Assistive Keyboard for game controls  
-- [hardware/3d_prints](hardware/3d_prints/) – 3D printable parts
+- [hardware/3d_prints](hardware/3d_print/) – 3D printable parts
 
 ---
 ## Firmware
