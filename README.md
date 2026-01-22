@@ -55,7 +55,7 @@ The device is recognized by the host system as a standard mouse and keyboard usi
 The controllers are built using off-the-shelf components and 3D-printed enclosures.  
 No specialized manufacturing tools are required, making the system easy to reproduce and modify.
 
-3D printing files are provided in the `hardware/3D_print` directory.
+3D printing files are provided in the [hardware/3D_prints](hardware/3D_print/) directory.
 
 ---
 
